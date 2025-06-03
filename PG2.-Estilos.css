@@ -1,0 +1,111 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#cabeza
+{
+    width: 100%;
+    height: 100px;
+    background-color: darkred;
+    text-align: center;
+}
+#cuerpo
+{
+    width: 100%;
+    height: 300px;
+    background-color: crimson;
+    text-align: center;
+}
+#pie
+{
+    width: 100%;
+    height: 50px;
+    background-color: forestgreen;
+    text-align: center;
+}
+#proyecto1
+{
+    width: 20%;
+    height: 50px;
+    background-color: chartreuse;
+    display: inline-block;
+    text-align: center;
+    margin-top: 25px;
+}
+#proyecto2
+{
+    width: 20%;
+    height: 50px;
+    background-color: tomato;
+    display: inline-block;
+    text-align: center;
+}
+#proyecto3
+{
+    width: 20%;
+    height: 50px;
+    background-color: chocolate;
+    display: inline-block;
+    text-align: center;
+}
+#proyecto4
+{
+    width: 20%;
+    height: 200px;
+    background-color: blue;
+    display: inline-block;
+    text-align: center;
+    margin-top: 25px;
+}
+#proyecto5
+{
+    width: 20%;
+    height: 200px;
+    background-color: fuchsia;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+}
+#proyecto6
+{
+    width: 20%;
+    height: 200px;
+    background-color: gold;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+}
+#proyecto7
+{
+    width: 20%;
+    height: 200px;
+    background-color: lawngreen;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+}
+#proyecto8
+{
+    width: 20%;
+    height: 40px;
+    background-color: lawngreen;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+}
+#proyecto9
+{
+    width: 20%;
+    height: 40px;
+    background-color: lawngreen;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+}
+#botong2
+{
+    width: 120px;
+    height: 70px;
+    background-color: red;
+}   

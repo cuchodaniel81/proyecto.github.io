@@ -1,0 +1,127 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-color: black;
+}
+#empiezo
+{
+    width: 100%;
+    height: 300px;
+    background-color: chartreuse;
+}
+#cuadro1
+{
+    width: 715px;
+    height: 300px;
+    background-color: crimson;
+    display: inline-block;
+}
+#cuadro2
+{
+    width: 715px;
+    height: 300px;
+    background-color: rgb(20, 220, 207);
+    display: inline-block;
+}
+#cuadro3
+{
+    width: 715px;
+    height: 300px;
+    background-color: springgreen;
+    display: inline-block;
+}
+#cuadro4
+{
+    width: 715px;
+    height: 300px;
+    background-color: yellow;
+    display: inline-block;
+}
+#contenido
+{
+    text-align: center;
+}
+
+#circulo1
+{
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    display: inline-block;
+    border-radius: 100%;
+    margin: 50px 100px 100px 100px;
+}
+
+#rectangulo1
+{
+    width: 715px;
+    height: 800px;
+    background-color: darkgreen;
+    display: inline-block;
+}
+#rectangulo2
+{
+    width: 715px;
+    height: 800px;
+    background-color: red;
+    display: inline-block;
+}
+#rectangulo3
+{
+    width: 715px;
+    height: 800px;
+    background-color: lime;
+    display: inline-block;
+}
+#rectangulo4
+{
+    width: 715px;
+    height: 800px;
+    background-color: fuchsia;
+    display: inline-block;
+}
+
+#circulo2
+{
+    width: 300px;
+    height: 300px;
+    background-color: deepskyblue;
+    display: inline-block;
+    border-radius: 100%;
+    margin: 20px 100px 200px 100px;
+}
+#cuadrito1
+{
+    width: 940px;
+    height: 300px;
+    background-color: chartreuse;
+    display: inline-block;
+    margin: 200px 0px;
+}
+#cuadrito2
+{
+    width: 940px;
+    height: 300px;
+    background-color: rgb(255, 42, 0);
+    display: inline-block;
+    margin: 200px 0px;
+}
+#circulo3
+{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(255, 0, 247);
+    display: inline-block;
+    border-radius: 100%;
+    margin: 20px 100px 200px 60px;
+}
+#boton4
+{
+    width: 120px;
+    height: 70px;
+    background-color: red;
+}

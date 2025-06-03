@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Login </title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="login.css">
+</head>
+<body class="bg-light">
+    <br><br><br><br>
+    <br><br><br><br>
+    <center>
+    <div id="login">
+        
+        <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="card shadow">
+                    <div class="card-body">
+                        <h2 class="text-center mb-4">Iniciar Sesión</h2>
+                        
+                        <form id="loginForm">
+                            <div class="mb-3">
+                                <label for="username" class="form-label">Usuario</label>
+                                <input type="text" class="form-control" id="username" required>
+                            </div>
+                            
+                            <div class="mb-3">
+                                <label for="password" class="form-label">Contraseña</label>
+                                <input type="password" class="form-control" id="password" required>
+                            </div>
+                            
+                            <div class="d-grid">
+                                <a href="Menu.html" class="btn btn-primary"> ACEPTAR</a>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    
+        <script>
+        document.getElementById('loginForm').addEventListener('submit', function(e) 
+        {
+            e.preventDefault();
+            
+            // Obtener valores
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+            
+            // Credenciales válidas (esto es solo para ejemplo, en producción no hagas esto)
+            const validUsername = "admin";
+            const validPassword = "123asd";
+            
+            // Validar
+            if(username === validUsername && password === validPassword) {
+                alert("Inicio de sesión exitoso");
+                // Redirigir a otra página
+                window.location.href = "menu.html";
+            } else {
+                alert("Usuario o contraseña incorrectos");
+            }
+        });
+        </script>
+        <a href="menu.html"></a>
+        <a href="index.html" class="btn btn-primary"> REGRESAR</a>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
+    </div>
+    </center>
+</body>
+</html>

@@ -1,0 +1,986 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#pagina
+{
+    width: 900px;
+    height: 1220px;
+    background-color: black;
+    margin: 20px auto;
+}
+#contenedor1
+{
+    width: 890px;
+    height: 400px;
+    background-color: chartreuse;
+    margin-top: 5px;
+    margin-left: 5px;
+    display: inline-block;
+}
+    #conte1
+    {
+        width: 350px;
+        height: 390px;
+        background-color: chartreuse;
+        margin-top: 5px;
+        margin-left: 5px;
+        display: inline-block;
+    }
+        #circulo_grande
+        {
+            width: 340px;
+            height: 340px;
+            border-radius: 50%;
+            background-color: darkgrey;
+            display: inline-block;
+            margin-bottom: 60px;
+            margin-top: 5px;
+            margin-left: 2.5px;
+        }
+        #encima1
+        {
+            width: 290px;
+            height: 290px;
+            border-radius: 50%;
+            background-color: beige;
+            display: inline-block;
+            margin-top: 24px;
+            margin-left: 25px;
+            margin-bottom: 70px;
+        }
+        #encima2
+        {
+            width: 240px;
+            height: 240px;
+            border-radius: 50%;
+            background-color: darkgray;
+            display: inline-block;
+            margin-top: 24px;
+            margin-left: 24px;
+            margin-bottom: 95px;
+        }
+        #encima3
+        {
+            width: 190px;
+            height: 190px;
+            border-radius: 50%;
+            background-color: darkslategray;
+            display: inline-block;
+            margin-top: 24px;
+            margin-left: 24px;
+            margin-bottom: 125px;
+        }
+        #encima4
+        {
+            width: 140px;
+            height: 140px;
+            border-radius: 50%;
+            background-color: black;
+            display: inline-block;
+            margin-top: 24px;
+            margin-left: 24px;
+            margin-bottom: 150px;
+        }
+        #encima5
+        {
+            width: 90px;
+            height: 90px;
+            border-radius: 50%;
+            background-color: red;
+            display: inline-block;
+            margin-top: 24px;
+            margin-left: 24px;
+            margin-bottom: 177px;
+        }
+    #conte2
+    {
+        width: 520px;
+        height: 390px;
+        background-color: darkgoldenrod;
+        margin-top: 5px;
+        margin-left: 5px;
+        display: inline-block;
+    }
+        #vertical1
+        {
+            width: 20px;
+            height: 380px;
+            background-color: green;
+            margin-top: 5px;
+            margin-left: 5px;
+            display: inline-block;
+            margin-bottom: 20px;
+        }
+        #horizontal1
+        {
+            width: 450px;
+            height: 20px;
+            background-color: blue;
+            margin-top: 5px;
+            margin-left: 5px;
+            display: inline-block;
+            margin-bottom: 520px;
+        }
+        #cuadro
+        {
+            width: 450px;
+            height: 330px;
+            margin-top: 25px;
+            margin-left: 1px;
+            background-color: brown;
+        }
+           #caja1
+           {
+            width: 70px;
+            height: 320px;
+            background-color: brown;
+            margin-top: 5px;
+            margin-left: 5px;
+            display: inline-block;
+            margin-bottom: 50px;
+           } 
+            #circulos1
+            {
+                width: 65px;
+                height: 65px;
+                border-radius: 50%;
+                margin-top: 25px;
+                margin-left: 2.5px;
+                background-color: yellow;
+            }
+           #caja2
+           {
+            width: 95px;
+            height: 320px;
+            background-color: brown;
+            margin-top: 5px;
+            margin-left: 5px;
+            display: inline-block;
+            margin-bottom: 50px;
+           }
+                #cuadrito1
+                {
+                    width: 85px;
+                    height: 100px;
+                    background-color: crimson;
+                    margin-top: 30px;
+                    margin-left: 5px;
+                }
+                #rectangulitos1
+                {
+                    width: 85px;
+                    height: 30px;
+                    background-color: chartreuse;
+                    margin-top: 20px;
+                    margin-left: 5px;
+                }
+           #caja3
+           {
+            width: 70px;
+            height: 320px;
+            background-color: brown;
+            margin-top: 5px;
+            margin-left: 5px;
+            display: inline-block;
+            margin-bottom: 50px;
+           } 
+                #circulos2
+                {
+                    width: 65px;
+                    height: 65px;
+                    border-radius: 50%;
+                    margin-top: 25px;
+                    margin-left: 2.5px;
+                    background-color: yellow;
+                }
+           #caja4
+           {
+            width: 95px;
+            height: 320px;
+            background-color: brown;
+            margin-top: 5px;
+            margin-left: 5px;
+            display: inline-block;
+            margin-bottom: 50px;
+           }
+                #rectangulitos2
+                {
+                    width: 85px;
+                    height: 30px;
+                    background-color: darkmagenta;
+                    margin-top: 25px;
+                    margin-left: 5px;
+                }
+                #cuadrito2
+                {
+                    width: 85px;
+                    height: 100px;
+                    background-color: darkturquoise;
+                    margin-top: 15px;
+                    margin-left: 5px;
+                }
+           #caja5
+           {
+            width: 70px;
+            height: 320px;
+            background-color: brown;
+            margin-top: 5px;
+            margin-left: 5px;
+            display: inline-block;
+            margin-bottom: 50px;
+           } 
+                #circulos3
+                {    
+                    width: 65px;
+                    height: 65px;
+                    border-radius: 50%;
+                    margin-top: 25px;
+                    margin-left: 2.5px;
+                    background-color: yellow;
+                }
+        #vertical2
+        {
+            width: 20px;
+            height: 380px;
+            background-color: green;
+            margin-top: 5px;
+            margin-left: 5px;
+            display: inline-block;
+            margin-bottom: 20px;
+        }
+        #horizontal2
+        {
+            width: 450px;
+            height: 20px;
+            background-color: blue;
+            margin-top: 5px;
+            margin-left: 2px;
+        }
+/* ESTE ES MI SEGUNDO CONTENEDOR /////////////////////////////////////////////////////////////////////////*/
+
+#contenedor2
+{
+    width: 890px;
+    height: 810px;
+    background-color: chartreuse;
+    margin-left: 5px;
+}
+    #linea1
+    {
+        width: 890px;
+        height: 90px;
+        background-color: blue;
+    }
+        #num1
+        {
+            width: 38.5px;
+            height: 50px;
+            background-color: darkseagreen;
+            display: inline-block;
+            margin-top: 5px;
+            margin-left: 8px;
+            margin-bottom: 10px;
+        }
+        #redon1
+        {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            background-color: aqua;
+            display: inline-block;
+            margin-top: 5px;
+            margin-left: 8px;
+            margin-bottom: 5px;
+        }
+        #num2
+        {
+            width: 38.5px;
+            height: 50px;
+            background-color: darkseagreen;
+            display: inline-block;
+            margin-top: 5px;
+            margin-left: 1px;
+            margin-bottom: 10px;
+        }
+        #redon2
+        {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            background-color: aqua;
+            display: inline-block;
+            margin-top: 5px;
+            margin-left: 1px;
+            margin-bottom: 5px;
+        }
+        #num3
+        {
+            width: 38.5px;
+            height: 50px;
+            background-color: darkseagreen;
+            display: inline-block;
+            margin-top: 5px;
+            margin-left: 1px;
+            margin-bottom: 10px;
+        }
+        #redon3
+        {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            background-color: aqua;
+            display: inline-block;
+            margin-top: 5px;
+            margin-left: 1px;
+            margin-bottom: 5px;
+        }
+        #num4
+        {
+            width: 38.5px;
+            height: 50px;
+            background-color: darkseagreen;
+            display: inline-block;
+            margin-top: 5px;
+            margin-left: 1px;
+            margin-bottom: 10px;
+        }
+        #redon4
+        {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            background-color: aqua;
+            display: inline-block;
+            margin-top: 5px;
+            margin-left: 1px;
+            margin-bottom: 5px;
+        }
+        #num5
+        {
+            width: 38.5px;
+            height: 50px;
+            background-color: darkseagreen;
+            display: inline-block;
+            margin-top: 5px;
+            margin-left: 1px;
+            margin-bottom: 10px;
+        }
+        #redon5
+        {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            background-color: aqua;
+            display: inline-block;
+            margin-top: 5px;
+            margin-left: 1px;
+            margin-bottom: 5px;
+        }
+        #num6
+        {
+            width: 38.5px;
+            height: 50px;
+            background-color: darkseagreen;
+            display: inline-block;
+            margin-top: 5px;
+            margin-left: 1px;
+            margin-bottom: 10px;
+        }
+        #redon6
+        {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            background-color: aqua;
+            display: inline-block;
+            margin-top: 5px;
+            margin-left: 1px;
+            margin-bottom: 5px;
+        }
+        #num7
+        {
+            width: 38.5px;
+            height: 50px;
+            background-color: darkseagreen;
+            display: inline-block;
+            margin-top: 5px;
+            margin-left: 1px;
+            margin-bottom: 10px;
+        }
+        #redon7
+        {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            background-color: aqua;
+            display: inline-block;
+            margin-top: 5px;
+            margin-left: 1px;
+            margin-bottom: 5px;
+        }
+        #num8
+        {
+            width: 38.5px;
+            height: 50px;
+            background-color: darkseagreen;
+            display: inline-block;
+            margin-top: 5px;
+            margin-left: 1px;
+            margin-bottom: 10px;
+        }
+        #redon8
+        {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            background-color: aqua;
+            display: inline-block;
+            margin-top: 5px;
+            margin-left: 1px;
+            margin-bottom: 5px;
+        }
+    #linea2
+    {
+        width: 60px;
+        height: 725px;
+        background-color: blue;
+        display: inline-block;
+        margin-bottom: 30px;
+    }
+        #redonditos1
+        {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background-color: yellow;
+            margin-left: 3px;
+            margin-top: 9px;
+        }
+        #cuadraditos1
+        {
+            width: 50px;
+            height: 50px;
+            background-color: red;
+            margin-left: 3px;
+            margin-top: 9px;
+        }
+        #redonditos2
+        {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background-color: yellow;
+            margin-left: 3px;
+            margin-top: 9px;
+        }
+        #cuadraditos2
+        {
+            width: 50px;
+            height: 50px;
+            background-color: red;
+            margin-left: 3px;
+            margin-top: 9px;
+        }
+        #redonditos3
+        {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background-color: yellow;
+            margin-left: 3px;
+            margin-top: 9px;
+        }
+        #cuadraditos3
+        {
+            width: 50px;
+            height: 50px;
+            background-color: red;
+            margin-left: 3px;
+            margin-top: 9px;
+        }
+    #cajon
+    {
+        width: 815px;
+        height: 705px;
+        background-color: chartreuse;
+        margin-left: 5px;
+        display: inline-block;
+    }
+        #linea_primera
+        {
+            width: 810px;
+            height: 150px;
+            background-color: darkblue;
+            margin-top: 5px;
+            margin-left: 2.5px;
+        }
+            #cajita1
+            {
+                width: 103px;
+                height: 140px;
+                background-color: darkblue;
+                margin-top: 5px;
+                margin-left: 5px;
+                display: inline-block;
+            }
+                #color1
+                {
+                    width: 60px;
+                    height: 60px;
+                    border-radius: 50%;
+                    background-color: red;
+                    margin-top: 5px;
+                    margin-left: 20px;
+                }
+                #color2
+                {
+                    width: 60px;
+                    height: 60px;
+                    border-radius: 50%;
+                    background-color: azure;
+                    margin-top: 7px;
+                    margin-left: 20px;
+                }
+            #cajita2
+            {
+                width: 240px;
+                height: 140px;
+                background-color: darkblue;
+                margin-top: 5px;
+                margin-left: 5px;
+                display: inline-block;
+            }
+                #lapiz1
+                {
+                    width: 30px;
+                    height: 130px;
+                    background-color: azure;
+                    margin-top: 5px;
+                    margin-left: 5px;
+                    display: inline-block;
+                    margin-bottom: 5px;
+                }
+            #cajita3
+            {
+                width: 150px;
+                height: 140px;
+                background-color: darkblue;
+                margin-top: 5px;
+                margin-left: 5px;
+                display: inline-block;
+            }
+                #barra1
+                {
+                    width: 140px;
+                    height: 29px;
+                    background-color: azure;
+                    margin-top: 5px;
+                    margin-left: 5px;
+                }
+            #cajita4
+            {
+                width: 150px;
+                height: 140px;
+                background-color: darkblue;
+                margin-top: 5px;
+                margin-left: 5px;
+                display: inline-block;
+            }
+            #cajita5
+            {
+                width: 116px;
+                height: 140px;
+                background-color: darkblue;
+                margin-top: 5px;
+                margin-left: 5px;
+                display: inline-block;
+            }
+                #color3
+                {
+                    width: 60px;
+                    height: 60px;
+                    border-radius: 50%;
+                    background-color: orangered;
+                    margin-top: 5px;
+                    margin-left: 20px;
+                }
+                #color4
+                {
+                    width: 60px;
+                    height: 60px;
+                    border-radius: 50%;
+                    background-color: fuchsia;
+                    margin-top: 7px;
+                    margin-left: 20px;
+                }
+                #barra2
+                {
+                    width: 140px;
+                    height: 29px;
+                    background-color: azure;
+                    margin-top: 5px;
+                    margin-left: 5px;
+                }
+        #linea_segunda
+        {
+            width: 215px;
+            height: 540px;
+            background-color: peru;
+            margin-top: 5px;
+            margin-left: 5px;
+            display: inline-block;
+            margin-bottom: 50px;
+        }
+            #progra1
+            {
+                width: 205px;
+                height: 173px;
+                background-color: peru;
+                margin-top: 5px;
+                margin-left: 5px;
+            }
+                #yo1
+                {
+                    width: 25px;
+                    height: 165px;
+                    background-color: azure;
+                    margin-top: 5px;
+                    margin-left: 5px;
+                    display: inline-block;
+                    margin-bottom: 410px;
+                }
+            #progra2
+            {
+                width: 205px;
+                height: 173px;
+                background-color: peru;
+                margin-top: 5px;
+                margin-left: 5px;
+            }
+                #yo2
+                {
+                    width: 195px;
+                    height: 23.5px;
+                    background-color: azure;
+                    margin-top: 5px;
+                    margin-left: 5px;
+                }
+            #progra3
+            {
+                width: 205px;
+                height: 173px;
+                background-color: peru;
+                margin-top: 5px;
+                margin-left: 5px;
+            }
+                #yo3
+                {
+
+                    width: 25px;
+                    height: 165px;
+                    background-color: azure;
+                    margin-top: 5px;
+                    margin-left: 5px;
+                    display: inline-block;
+                    margin-bottom: 60px;
+                }
+        #linea_tercera
+        {
+            width: 450px;
+            height: 540px;
+            background-color: chartreuse;
+            margin-top: 5px;
+            margin-left: 5px;
+            display: inline-block;
+            margin-bottom: 10px;
+        }
+            #centro1
+            {
+                width: 440px;
+                height: 405px;
+                background-color: chartreuse;
+                margin-top: 5px;
+                margin-left: 5px;
+            }
+                #grandote1
+                {
+                    width: 390px;
+                    height: 390px;
+                    border-radius: 100%;
+                    background-color: azure;
+                    margin-top: 2.5px;
+                    margin-left: 20px;
+                    display: inline-block;
+                }
+                #grandote2
+                {
+                    width: 330px;
+                    height: 330px;
+                    border-radius: 100%;
+                    background-color: darkblue;
+                    margin-top: 30px;
+                    margin-left: 30px;
+                    display: inline-block;
+                }
+                #grandote3
+                {
+                    width: 280px;
+                    height: 280px;
+                    border-radius: 100%;
+                    background-color: deepskyblue;
+                    margin-top: 25px;
+                    margin-left: 25px;
+                    display: inline-block;
+                }
+                #grandote4
+                {
+                    width: 230px;
+                    height: 230px;
+                    border-radius: 100%;
+                    background-color: darkgreen;
+                    margin-top: 24px;
+                    margin-left: 25px;
+                    display: inline-block;
+                }
+                #grandote5
+                {
+                    width: 180px;
+                    height: 180px;
+                    border-radius: 100%;
+                    background-color: yellow;
+                    margin-top: 24px;
+                    margin-left: 25px;
+                    display: inline-block;
+                }
+                #grandote6
+                {
+                    width: 130px;
+                    height: 130px;
+                    border-radius: 100%;
+                    background-color: coral;
+                    margin-top: 24px;
+                    margin-left: 25px;
+                    display: inline-block;
+                }
+                #grandote7
+                {
+                    width: 80px;
+                    height: 80px;
+                    border-radius: 100%;
+                    background-color: red;
+                    margin-top: 24px;
+                    margin-left: 25px;
+                    display: inline-block;
+                }
+                #grandote8
+                {
+                    width: 30px;
+                    height: 30px;
+                    border-radius: 100%;
+                    background-color: azure;
+                    margin-top: 24px;
+                    margin-left: 25px;
+                    display: inline-block;
+                }
+
+            #centro2
+            {
+                width: 440px;
+                height: 120px;
+                background-color: yellowgreen;
+                margin-top: 5px;
+                margin-left: 5px;
+            }
+                #rayas1
+                {
+                    width: 120px;
+                    height: 120px;
+                    background-color: yellowgreen   ;
+                    display: inline-block;
+                    margin-bottom: 15px;
+                }
+                    #circus1
+                    {
+                        width: 35px;
+                        height: 35px;
+                        border-radius: 50%;
+                        background-color: cadetblue;
+                        display: inline-block;
+                        margin-bottom: 100px;
+                        margin-top: 40px;
+                    }
+                    #circus2
+                    {
+                        width: 35px;
+                        height: 35px;
+                        border-radius: 50%;
+                        background-color: red;
+                        display: inline-block;
+                        margin-bottom: 100px;
+                        margin-top: 40px;
+                    }
+                    #circus3
+                    {
+                        width: 35px;
+                        height: 35px;
+                        border-radius: 50%;
+                        background-color: blue;
+                        display: inline-block;
+                        margin-bottom: 100px;
+                        margin-top: 40px;
+                    }
+                #rayas2
+                {
+                    width: 100px;
+                    height: 120px;
+                    background-color: yellowgreen;
+                    display: inline-block;
+                    margin-bottom: 55px;
+                }   
+                    #sobres1
+                    {
+                        width: 90px;
+                        height: 23px;
+                        background-color: azure;
+                        margin-left: 5px;
+                        margin-top: 5px;
+                    }
+                    #sobres2
+                    {
+                        width: 90px;
+                        height: 23px;
+                        background-color: azure;
+                        margin-left: 5px;
+                        margin-top: 5px;
+                    }
+                    #sobres3
+                    {
+                        width: 90px;
+                        height: 23px;
+                        background-color: azure;
+                        margin-left: 5px;
+                        margin-top: 5px;
+                    }
+                    #sobres4
+                    {
+                        width: 90px;
+                        height: 23px;
+                        background-color: azure;
+                        margin-left: 5px;
+                        margin-top: 5px;
+                    }
+                #rayas3
+                {
+                    width: 100px;
+                    height: 120px;
+                    background-color: yellowgreen;
+                    display: inline-block;
+                    margin-bottom: 55px;
+                }
+                    #sobres5
+                        {
+                            width: 90px;
+                            height: 23px;
+                            background-color: azure;
+                            margin-left: 5px;
+                            margin-top: 5px;
+                        }
+                        #sobres6
+                        {
+                            width: 90px;
+                            height: 23px;
+                            background-color: azure;
+                            margin-left: 5px;
+                            margin-top: 5px;
+                        }
+                        #sobres7
+                        {
+                            width: 90px;
+                            height: 23px;
+                            background-color: azure;
+                            margin-left: 5px;
+                            margin-top: 5px;
+                        }
+                        #sobres8
+                        {
+                            width: 90px;
+                            height: 23px;
+                            background-color: azure;
+                            margin-left: 5px;
+                            margin-top: 5px;
+                        }
+                #rayas4
+                {
+                    width: 100px;
+                    height: 120px;
+                    background-color: yellowgreen;
+                    display: inline-block;
+                    margin-bottom: 55px;
+                }
+                    #sobres9
+                    {
+                        width: 90px;
+                        height: 23px;
+                        background-color: azure;
+                        margin-left: 5px;
+                        margin-top: 5px;
+                    }
+                    #sobres10
+                    {
+                        width: 90px;
+                        height: 23px;
+                        background-color: azure;
+                        margin-left: 5px;
+                        margin-top: 5px;
+                    }
+                    #sobres11
+                    {
+                        width: 90px;
+                        height: 23px;
+                        background-color: azure;
+                        margin-left: 5px;
+                        margin-top: 5px;
+                    }
+                    #sobres12
+                    {
+                        width: 90px;
+                        height: 23px;
+                        background-color: azure;
+                        margin-left: 5px;
+                        margin-top: 5px;
+                    }
+        #linea_cuarta
+        {
+            width: 120px;
+            height: 550px;
+            background-color: chartreuse;
+            margin-left: 5px;
+            display: inline-block;
+            margin-bottom: 50px;
+        }
+            #tres_diviciones1
+            {
+                width: 122px;
+                height: 181px;
+                background-color: coral;
+            }
+            #tres_diviciones2
+            {
+                width: 122px;
+                height: 181px;
+                background-color: violet;
+            }
+            #tres_diviciones3
+            {
+                width: 122px;
+                height: 181px;
+                background-color: blue;
+            }
+#boton10
+{
+    width: 120px;
+    height: 70px;
+    background-color: red;
+}     

@@ -1,0 +1,224 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-color: black;
+}
+#cabeza
+{
+    text-align: center;
+}
+#contenedor1
+{
+    width: 96.5%;
+    height: 400px;
+    background-color: red ;
+    display: inline-block;
+    margin: 50px 50px 0px 50px;
+}
+#circulo1
+{
+    width: 300px;
+    height: 300px;
+    background-color: chartreuse;
+    display: inline-block;
+    border-radius: 100%;
+    margin: 50px 50px 100px 200px;
+}
+#circulo2
+{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(255, 0, 132);
+    display: inline-block;
+    border-radius: 100%;
+    margin: 50px 50px 100px 200px;
+}
+#circulo3
+{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(179, 0, 255);
+    display: inline-block;
+    border-radius: 100%;
+    margin: 50px 50px 100px 200px;
+}
+#cuadro1
+{
+    width: 900px;
+    height: 300px;
+    background-color: rgb(25, 0, 255);
+    display: inline-block;
+    margin: 50px 50px 100px 100px;
+
+}
+
+    #cuadrito1
+    {
+        width: 415px;
+        height: 200px;
+        background-color: blueviolet;
+        display: inline-block;
+        margin: 10px 10px 10px 20px;
+    }
+    #cuadrito2
+    {
+        width: 409px;
+        height: 200px;
+        background-color: chocolate;
+        display: inline-block;
+        margin: 20px 10px 10px 50px;
+    }
+    #cuadrito3
+    {
+        width: 409px;
+        height: 200px;
+        background-color: seagreen;
+        display: inline-block;
+        margin: 20px 10px 10px 50px;
+    }
+    #cuadrito4
+    {
+        width: 409px;
+        height: 200px;
+        background-color: aqua;
+        display: inline-block;
+        margin: 20px 10px 10px 50px;
+    }
+    #cuadrito5
+    {
+        width: 409px;
+        height: 200px;
+        background-color: lawngreen;
+        display: inline-block;
+        margin: 20px 10px 10px 50px;
+    }
+    #cuadrito6
+    {
+        width: 408px;
+        height: 200px;
+        background-color: orange;
+        display: inline-block;
+        margin: 20px 0px 10px 30px;
+    }
+#contenido
+{
+    text-align: center;
+}
+#contenedor2
+{
+    width: 96.5%;
+    height: 300px;
+    background-color: darkorange;
+    display: inline-block;
+    margin-top: 50px 50px;
+}
+    #cuadro_vertical
+    {
+        width: 700px;
+        height: 800px;
+        background-color: chartreuse;
+        margin-bottom: 50px;
+        margin: 50px 20px 50px 50px;
+        display: inline-block;
+    }
+    #rectangulo
+    {
+        width: 1300px;
+        height: 800px;
+        background-color: aqua;
+        display: inline-block;
+        margin-bottom: 50px;
+        margin: 50px 20px 50px 50px;
+    }
+    #articulos
+    {
+        width: 630px;
+        height: 800px;
+        background-color: green;
+        display: inline-block;
+        margin: 50px 20px 50px 50px;
+    }
+    #articulo
+    {
+        width: 620px;
+        height: 395px;
+        background-color: deeppink;
+        margin: auto;
+        margin-top: 10px;
+    }
+    #articulo1
+    {
+        width: 620px;
+        height: 395px;
+        background-color: rgb(20, 255, 47);
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+        #opcion1
+        {
+            width: 409px;
+            height: 200px;
+            background-color: darkgoldenrod;
+            display: inline-block;
+            margin: 10px 10px 10px 50px;
+        }
+        #opcion2
+        {
+            width: 409px;
+            height: 200px;
+            background-color: rgb(11, 43, 184);
+            display: inline-block;
+            margin: 20px 10px 10px 50px;
+        }
+        #opcion3
+        {
+            width: 409px;
+            height: 200px;
+            background-color: rgb(80, 11, 184);
+            display: inline-block;
+            margin: 20px 10px 10px 50px;
+        }
+        #opcion4
+        {
+            width: 409px;
+            height: 200px;
+            background-color: rgb(11, 184, 54);
+            display: inline-block;
+            margin: 20px 10px 10px 50px;
+        }
+        #opcion5
+        {
+            width: 409px;
+            height: 200px;
+            background-color: rgb(161, 11, 184);
+            display: inline-block;
+            margin: 20px 10px 10px 50px;
+        }
+        #opcion6
+        {
+            width: 409px;
+            height: 200px;
+            background-color: rgb(11, 184, 135);
+            display: inline-block;
+            margin: 20px 0px 10px 50px;
+        }
+           
+            #daniel
+            {
+                width: 96.5%;
+                height: 300px;
+                background-color: rgb(21, 255, 0);
+                display: inline-block;
+                margin: 50px 30px 60px 50px;
+            }
+#boton5
+{
+    width: 120px;
+    height: 70px;
+    background-color: red;
+}

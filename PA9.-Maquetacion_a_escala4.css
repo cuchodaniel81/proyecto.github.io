@@ -1,0 +1,408 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#pagina_principal
+{
+    width: 900px;
+    height: 1220px;
+    background-color: black;
+    margin: 20px auto;
+}
+/* ESTE ES MI PRIMER CONTENEDOR /////////////////////////////////////////////////////////////////*/
+#contenedor1
+{
+    width: 890px;
+    height: 600px;
+    background-color: bisque;
+    margin-top: 5px;
+    margin-left: 5px;
+    display: inline-block;
+}
+    #cuadro1
+    {
+        width: 880px;
+        height: 200px;
+        background-color: bisque;
+        margin-top: 5px;
+        margin-left: 5px;
+    }
+        #num1
+        {
+            width:20px;
+            height: 190px;
+            background-color: blue;
+            margin-top: 5px;
+            margin-left: 5px;
+            display: inline-block;
+        }
+        #num2
+        {
+            width:810px;
+            height: 190px;
+            background-color: red;
+            margin-top: 5px;
+            margin-left: 5px;
+            display: inline-block;
+        }
+        #num3
+        {
+            width:20px;
+            height: 190px;
+            background-color: blue;
+            margin-top: 5px;
+            margin-left: 5px;
+            display: inline-block;
+        }
+    #cuadro2
+    {
+        width: 200px;
+        height: 385px;
+        background-color: tomato;
+        margin-top: 5px;
+        margin-left: 5px;
+        display: inline-block;
+    }
+        #circular1
+        {
+            width: 90px;
+            height: 90px;
+            border-radius: 50%;
+            background-color: azure;
+            margin-top: 5px;
+            margin-left: 50px;
+        }
+        #rayas
+        {
+            width: 190px;
+            height: 40px;
+            background-color: gold;
+            margin-top: 5px;
+            margin-left: 5px;
+        }
+        #circular2
+        {
+            width: 90px;
+            height: 90px;
+            border-radius: 50%;
+            background-color: azure;
+            margin-top: 5px;
+            margin-left: 50px;
+        }
+    #cuadro3
+    {
+        width: 440px;
+        height: 385px;
+        background-color: darkgoldenrod;
+        margin-top: 5px;
+        margin-left: 5px;
+        display: inline-block;
+    }
+        #recta1
+        {
+            width: 430px;
+            height: 100px;
+            background-color: chartreuse;
+            margin-top: 5px;
+            margin-left: 5px;
+        }
+            #uno
+            {
+                width: 210px;
+                height: 100px;
+                background-color: chartreuse;
+                display: inline-block;
+                margin-bottom: 230px;
+                margin-left: 2.5px;
+            }
+                #circulos
+                {
+                    width: 40px;
+                    height: 40px;
+                    border-radius: 50%;
+                    margin-left: 2.5px;
+                    background-color: blueviolet;
+                    display: inline-block;
+                    margin-bottom: 310px;
+                    margin-top: 30px;
+                }
+            #dos
+            {
+                width: 210px;
+                height: 100px;
+                background-color: chartreuse;
+                display: inline-block;
+                margin-bottom: 280px;
+                margin-left: 2.5px;
+            }
+                #rectangulitos
+                {
+                    width: 200px;
+                    height: 20px;
+                    background-color: brown;
+                    margin-left: 2.5px;
+                    margin-top: 2.5px;
+                }
+        #cuadrote
+        {
+            width: 430px;
+            height: 265px;
+            background-color: darkgoldenrod;
+            margin-top: 5px;
+            margin-left: 5px;
+            margin-bottom: 300px;
+        }
+            #circulotes1
+            {
+                width: 200px;
+                height: 200px;
+                border-radius: 50%;
+                background-color: black;
+                margin-top: 25px;
+                margin-left: 5px;
+                display: inline-block;
+                margin-bottom: 50px;
+            }
+            #circulotes2
+            {
+                width: 200px;
+                height: 200px;
+                border-radius: 50%;
+                background-color: red;
+                margin-top: 25px;
+                margin-left: 5px;
+                display: inline-block;
+                margin-bottom: 50px;
+            }
+    #cuadro4
+    {
+        width: 220px;
+        height: 385px;
+        background-color: tomato;
+        margin-top: 5px;
+        margin-left: 5px;
+        display: inline-block;
+    }
+        #adentro
+        {
+            width: 210px;
+            height: 270px;
+            background-color: blueviolet;
+            margin-left: 5px;
+        }
+            #chiquitos
+            {
+                width: 200px;
+                height: 20px;
+                background-color: deeppink;
+                margin-top: 7px;
+                margin-left: 5px;
+            }
+
+        #abajo
+        {
+            width: 210px;
+            height: 100px;
+            background-color: tomato;
+            margin-left: 5px;
+        }
+            #redondo
+            {
+                width: 90px;
+                height: 90px;
+                border-radius: 50%;
+                background-color: darkgreen;
+                margin-left: 55px;
+                margin-top: 5px;
+            }
+/* ESTE ES MI SEGUNDO CONTENEDOR /////////////////////////////////////////////////////////////////*/
+#contenedor2
+{
+    width: 439px;
+    height: 600px;
+    background-color: indianred;
+    margin-top: 5px;
+    margin-left: 5px;
+    display: inline-block;
+}
+    #encima1
+    {
+        width: 400px;
+        height: 400px;
+        border-radius: 100%;
+        background-color: deeppink;
+        margin-top: 5px;
+        margin-left: 15px;
+        display: inline-block;
+    }
+    #encima2
+    {
+        width: 350px;
+        height: 350px;
+        border-radius: 100%;
+        background-color: darkgreen;
+        margin-top: 25px;
+        margin-left: 25px;
+        display: inline-block;
+        margin-bottom: 220px;
+    }
+    #encima3
+    {
+        width: 300px;
+        height: 300px;
+        border-radius: 100%;
+        background-color: darkgoldenrod;
+        margin-top: 25px;
+        margin-left: 25px;
+        display: inline-block;
+        margin-bottom: 240px;
+    }
+    #encima4
+    {
+        width: 250px;
+        height: 250px;
+        border-radius: 100%;
+        background-color: darkred;
+        margin-top: 25px;
+        margin-left: 25px;
+        display: inline-block;
+        margin-bottom: 265px;
+    }
+    #encima5
+    {
+        width: 200px;
+        height: 200px;
+        border-radius: 100%;
+        background-color: deepskyblue;
+        margin-top: 25px;
+        margin-left: 25px;
+        display: inline-block;
+        margin-bottom: 300px;
+    }
+#cuadros
+{
+    width: 210px;
+    height: 180px;
+    background-color: indianred;
+    margin-top: 5px;
+    margin-left: 5px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+    #cajoncitos1
+    {
+        width: 200px;
+        height: 40px;
+        background-color: black;
+        margin-top: 2.5px;
+        margin-left: 5px;
+    }
+#cuadrosd
+{
+    width: 210px;
+    height: 180px;
+    background-color: indianred;
+    margin-top: 5px;
+    margin-left: 5px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+    #cajoncitos2
+    {
+        width: 200px;
+        height: 40px;
+        background-color: black;
+        margin-top: 2.5px;
+        margin-left: 5px;
+    }
+/* ESTE ES MI TERCER CONTENEDOR /////////////////////////////////////////////////////////////////*/
+#contenedor3
+{
+    width: 439px;
+    height: 600px;
+    background-color: orangered;
+    margin-top: 5px;
+    margin-left: 5px;
+    display: inline-block;
+}
+    #daniel1
+    {
+        width: 400px;
+        height: 400px;
+        border-radius: 100%;
+        background-color: darkgoldenrod;
+        margin-top: 5px;
+        margin-left: 15px;
+        display: inline-block;
+    }
+    #daniel2
+    {
+        width: 350px;
+        height: 350px;
+        border-radius: 100%;
+        background-color: darkgreen;
+        margin-top: 25px;
+        margin-left: 25px;
+        display: inline-block;
+        margin-bottom: 220px;
+    }
+    #daniel3
+    {
+        width: 300px;
+        height: 300px;
+        border-radius: 100%;
+        background-color: darkkhaki;
+        margin-top: 25px;
+        margin-left: 25px;
+        display: inline-block;
+        margin-bottom: 240px;
+    }
+    #daniel4
+    {
+        width: 250px;
+        height: 250px;
+        border-radius: 100%;
+        background-color: darkcyan;
+        margin-top: 25px;
+        margin-left: 25px;
+        display: inline-block;
+        margin-bottom: 265px;
+    }
+    #daniel5
+    {
+        width: 200px;
+        height: 200px;
+        border-radius: 100%;
+        background-color: blue;
+        margin-top: 25px;
+        margin-left: 25px;
+        display: inline-block;
+        margin-bottom: 300px;
+    }
+    #larga
+    {
+        width: 430px;
+        height: 120px;
+        background-color: orangered;
+        margin-top: 35px;
+        margin-left: 5px;
+    }
+        #circulos_cuatro
+        {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background-color: deepskyblue;
+            display: inline-block;
+            margin-bottom: 70px;
+            margin-top: 5px;
+            margin-left: 2.5px;
+        }
+
+#boton9
+{
+    width: 120px;
+    height: 70px;
+    background-color: red;
+}    

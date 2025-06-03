@@ -1,0 +1,287 @@
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
+#pagina
+{
+    width: 1400px;
+    height: 1540px;
+    background-color: black;
+    border: 1px whitesmoke solid;
+    margin: 20px auto;
+}
+/* ESTE ES MI PRIMER CONTENEDOR ////////////////////////////////////////////////////////////////////*/
+    #contenedor1
+    {
+        width: 1380px;
+        height: 710px;
+        background-color: brown;
+        margin: 10px 10px 10px 10px;
+    }
+        #caja1
+        {
+            width: 680px;
+            height: 700px;
+            background-color: chocolate;
+            display: inline-block;
+            margin-top: 5px;
+            margin-left: 5px;
+        }
+            #circulote
+            {
+                width: 200px;
+                height: 200px;
+                border-radius: 100%;
+                background-color: yellowgreen;
+                margin-top: 5px;
+                margin-left: 250px;
+            }
+            #rectangulitos
+            {
+                width: 400px;
+                height: 70px;
+                background-color: fuchsia;
+                margin-top: 10px;
+                margin-left: 150px;
+            }
+        #caja2
+        {
+            width: 680px;
+            height: 700px;
+            background-color: chocolate;
+            display: inline-block;
+            margin-top: 5px;
+            margin-left: 5px;
+        }
+            #conte1
+            {
+                width: 670px;
+                height: 200px;
+                background-color: blue;
+                margin-top: 5px;
+                margin-left: 5px;
+            }
+                #circulillos
+                {
+                    width: 130px;
+                    height: 130px;
+                    border-radius: 50%;
+                    background-color: chocolate;
+                    display: inline-block;
+                    margin-top: 20px;
+                    margin-left: 5px;
+                }
+                #recta
+                {
+                    width: 230px;
+                    height: 130px;
+                    background-color: deepskyblue;
+                    margin-top: 5px;
+                    margin-left: 5px;
+                    display: inline-block;
+                }
+            #cuadro2
+            {
+                width: 670px;
+                height: 490px;
+                background-color: darkgreen;
+                margin-top: 5px;
+                margin-left: 5px;
+            }
+                #nume1
+                {
+                    width: 330px;
+                    height: 480px;
+                    background-color: blueviolet;
+                    margin-top: 5px;
+                    margin-left: 5px;
+                    display: inline-block;
+                }
+                    #cuadritos
+                    {
+                        width: 320px;
+                        height: 50px;
+                        background-color: brown;
+                        margin-top: 5px;
+                        margin-left: 5px;
+                    }
+                    #circu
+                    {
+                        width: 100px;
+                        height: 100px;
+                        border-radius: 50%;
+                        background-color: chartreuse;
+                        margin-top: 20px;
+                        margin-left: 100px;
+                    }
+                #nume2
+                {
+                    width: 320px;
+                    height: 480px;
+                    background-color: chartreuse;
+                    margin-top: 5px;
+                    margin-left: 5px;
+                    display: inline-block;
+                }
+                    #carlos1
+                    {
+                        width: 310px;
+                        height: 100px;
+                        background-color: chartreuse;
+                        margin-top: 5px;
+                        margin-left: 5px;
+                    }
+                        #redondos
+                        {
+                            width: 90px;
+                            height: 90px;
+                            border-radius: 50%;
+                            background-color: blueviolet;
+                            margin-top: 5px;
+                            margin-left: 35px;
+                            display: inline-block;
+                            margin-bottom: 380px;
+                        }
+                    #carlos2
+                    {
+                        width: 310px;
+                        height: 365px;
+                        background-color: black;
+                        margin-top: 5px;
+                        margin-left: 5px;
+                    }
+
+
+/* ESTE ES MI SEGUNDO CONTENEDOR ////////////////////////////////////////////////////////////////////*/
+
+    #contenedor2
+    {
+        width: 1380px;
+        height: 800px;
+        background-color: blue;
+        margin: 10px 10px 10px 10px;
+    }
+   
+    
+        #rectangulo1
+        {
+            width: 1280px;
+            height: 100px;
+            background-color: yellow;
+            display: inline-block;
+            margin: 10px 10px 10px 10px;
+            text-align: center;
+            padding: 40px;
+        }
+        #circulos_horizontal
+        {
+            width: 80px;
+            height: 80px;
+            background-color: brown;
+            border-radius: 50%;
+            display: inline-block;
+            margin-left: 7px;
+            margin-right: 7px;
+        }
+    
+
+
+
+
+            #rectangulo2
+            {
+                width: 1360px;
+                height: 205px;
+                background-color: yellowgreen;
+                display: inline-block;
+                margin: 10px 10px 10px 10px;
+                text-align: center;
+            }
+                #cuadros_horizontales
+                {
+                    width: 330px;
+                    height: 91.5px;
+                    background-color: tomato;
+                    display: inline-block;
+                    margin: 3px 3px 3px 3px;
+                    margin-bottom: 3px;
+                    margin-right: 3px;
+                    margin-left: 3px;
+                    
+                }
+        #rectangulo3
+        {
+            width: 950px;
+            height: 340px;
+            background-color: rgb(50, 205, 182);
+            display: inline-block;
+            margin: 10px 10px 10px 10px;
+        }
+            #circu1
+            {
+                width: 140px;
+                height: 140px;
+                background-color: maroon;
+                border-radius: 50%;
+                display: inline-block;
+                margin: 5px 5px 5px 5px;
+            }
+            #recta1
+            {
+                width: 780px;
+                height: 140px;
+                background-color: slateblue;
+                display: inline-block;
+                margin: 5px 5px 5px 5px ;
+            }
+            #recta2
+            {
+                width: 780px;
+                height: 140px;
+                background-color: forestgreen;
+                display: inline-block;
+                margin: 20px 5px 5px 5px ;
+            }
+            #circu2
+            {
+                width: 140px;
+                height: 140px;
+                background-color: crimson;
+                border-radius: 50%;
+                display: inline-block;
+                margin: 5px 5px 5px 5px;
+            }
+        #cuadro_derecha
+        {
+            width: 380px;
+            height: 340px;
+            background-color: firebrick;
+            display: inline-block;
+            margin: 10px 10px 10px 10px;
+        }
+            #carlos
+            {
+                width: 160px;
+                height: 160px;
+                background-color: fuchsia;
+                border-radius: 50%;
+                display: inline-block;
+                margin: 5px 5px 5px 105px;
+            }
+            #daniel
+            {
+                width: 160px;
+                height: 160px;
+                background-color: blueviolet;
+                border-radius: 50%;
+                display: inline-block;
+                margin: 5px 5px 5px 105px;
+            }
+#boton6
+{
+    width: 120px;
+    height: 70px;
+    background-color: red;
+}
